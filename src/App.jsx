@@ -7,6 +7,8 @@ function App() {
       <Header />
       <Song title="Swing Low, Sweet Chariot" />
       <Song title="Swing Low, Sweet Chariot" />
+      <Song title="Swing Low, Sweet Chariot" />
+      <Song title="Swing Low, Sweet Chariot" />
     </main>
   );
 }

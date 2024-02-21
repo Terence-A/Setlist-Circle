@@ -32,7 +32,9 @@ const Song = ({ title }) => {
               <button className={cssButton}>Tabs</button>
             </p>
             <p>
-              <button className={cssButton}>Tutorial</button>
+              <button className="text-stone-600 bg-stone-800 w-32 py-2 rounded-md border border-stone-50/20  hover:border-none  hover:bg-stone-700 hover:font-bold font-bold hover:text-stone-50 ">
+                EMPTY
+              </button>
             </p>
           </div>
         </div>
