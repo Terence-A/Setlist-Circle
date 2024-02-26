@@ -21,10 +21,20 @@ const Song = ({ title }) => {
         <div className="">
           <div className="flex justify-around mb-4 ">
             <p>
-              <button className={cssButton}>Video</button>
+              <a
+                href="https://www.youtube.com/watch?v=b0q-LyGiCbs&t=1s"
+                target="_blank"
+              >
+                <button className={cssButton}>Video</button>
+              </a>
             </p>
             <p>
-              <button className={cssButton}>Lyrics</button>
+              <a
+                href="https://www.songsforteaching.com/folk/swinglowsweetchariot.htm"
+                target="_blank"
+              >
+                <button className={cssButton}>Lyrics</button>
+              </a>
             </p>
           </div>
           <div className="flex justify-around ">
