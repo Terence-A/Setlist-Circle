@@ -78,6 +78,12 @@ Welcome to Setlist Circle Phase Two! Setlist Circle is your ultimate platform fo
 
 - The backend server handles user authentication, data storage, and communication between users, providing a seamless experience for users.
 
+## Screenshots
+
+![alt text](image.png)
+
+![alt text](image-2.png)
+
 ## Usage
 
 1. Navigate to the website and access the dashboard.
