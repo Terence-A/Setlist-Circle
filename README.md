@@ -80,9 +80,9 @@ Welcome to Setlist Circle Phase Two! Setlist Circle is your ultimate platform fo
 
 ## Screenshots
 
-![alt text](image.png)
+![alt text](./public/image.png)
 
-![alt text](image-2.png)
+![alt text](./public/image-2.png)
 
 ## Usage
 
