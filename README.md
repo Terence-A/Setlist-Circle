@@ -84,6 +84,8 @@ Welcome to Setlist Circle Phase Two! Setlist Circle is your ultimate platform fo
 
 ![alt text](./public/image-2.png)
 
+![alt text](./public/image-3.png)
+
 ## Usage
 
 1. Navigate to the website and access the dashboard.
